@@ -28,11 +28,11 @@ EMG-submental,EMG-intercostal,,EMG-diaphragm,pneumotachometry, contact, micropho
 mV,mV,mV,cmH20,V,N/A (Units for raw data)
 
 Class labels are as follows:
-0 - Null (anything outside the other classes)
-1 - Swallow phase 1 (preparation activity for swallowing such as chewing, sipping etc.)
-2 - Swallow phase 2 (swallow reflex, larynx elevation following submental muscle contraction)
-3 - Cough
-4 - Speech
+  -  0 - Null (anything outside the other classes)
+  -  1 - Swallow phase 1 (preparation activity for swallowing such as chewing, sipping etc.)
+  -  2 - Swallow phase 2 (swallow reflex, larynx elevation following submental muscle contraction)
+  -  3 - Cough
+  -  4 - Speech
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Sampling rate for EMG, pneumotachometry & sound = 2000 Hz
