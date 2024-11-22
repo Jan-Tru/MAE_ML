@@ -1,3 +1,5 @@
+[Original Website](https://rdr.ucl.ac.uk/articles/dataset/sEMG_of_Swallowing_Coughing_and_Speech/24297766?file=42865813)
+
 Notes on dataset:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
